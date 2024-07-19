@@ -1,2 +1,2 @@
 # BattleShipJBA
-Create battleship game
+Классическая игра "Морской бой"
